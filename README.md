@@ -4,7 +4,7 @@ Nama : Muhammad Ryamizard Reyopa S
 Nim : 312210185
 ```
 ## 1. HOME
-!(https://github.com/MuhammadRyamizardReyopaS/UjianAkhirAndroid/blob/main/foto1.PNG)
+![img](https://github.com/MuhammadRyamizardReyopaS/UjianAkhirAndroid/blob/main/foto1.PNG)
 ## 2. TWO ACTIVITY
 !(https://github.com/MuhammadRyamizardReyopaS/UjianAkhirAndroid/blob/main/foto2.PNG)
 ## 3. MAPS
