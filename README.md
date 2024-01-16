@@ -22,4 +22,4 @@ Nim : 312210185
 ## 9. FIBONANCI
 ![img](https://github.com/MuhammadRyamizardReyopaS/UjianAkhirAndroid/blob/main/foto9.PNG)
 
-Screen_recording_20240115_151748
+E:\tugasandro\Screen_recording_20240115_151748.webm
