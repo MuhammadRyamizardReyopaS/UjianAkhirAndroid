@@ -21,3 +21,5 @@ Nim : 312210185
 ![img](https://github.com/MuhammadRyamizardReyopaS/UjianAkhirAndroid/blob/main/foto8.PNG)
 ## 9. FIBONANCI
 ![img](https://github.com/MuhammadRyamizardReyopaS/UjianAkhirAndroid/blob/main/foto9.PNG)
+
+Screen_recording_20240115_151748
