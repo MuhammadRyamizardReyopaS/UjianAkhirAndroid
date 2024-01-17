@@ -4,7 +4,7 @@
 Nama : Muhammad Ryamizard Reyopa S
 Nim : 312210185
 ```
-## 1. HOME
+## 1. HALAMAN UTAMA
 ![img](https://github.com/MuhammadRyamizardReyopaS/UjianAkhirAndroid/blob/main/foto1.PNG)
 ## 2. TWO ACTIVITY
 ![img](https://github.com/MuhammadRyamizardReyopaS/UjianAkhirAndroid/blob/main/foto2.PNG)
