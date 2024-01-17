@@ -38,4 +38,5 @@ __________________________
 ![img](https://github.com/MuhammadRyamizardReyopaS/UjianAkhirAndroid/blob/main/foto9.PNG)
 ## 10. VIDIO SINGKAT TENTANG APLIKASI
 https://github.com/MuhammadRyamizardReyopaS/UjianAkhirAndroid/assets/115521139/b0128fbf-cb58-4908-b70d-b09b2e77a565
-
+## 11. Link PDF
+[Ujian Akhir Pemrograman Mobile.pdf](https://github.com/MuhammadRyamizardReyopaS/UjianAkhirAndroid/files/13963890/Ujian.Akhir.Pemrograman.Mobile.pdf)
