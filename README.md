@@ -6,17 +6,17 @@ Nim : 312210185
 ```
 # Daftar Isi
 ______________________________
-## - Halaman Utama
-## - Two Activity
-## - Maps
-## - Kalender
-## - Alarm
-## - Telpon
-## - Film
-## - Sianida
-## - Fibonanci
-## - Vidio
-## - Link PDF
+- Halaman Utama
+- Two Activity
+- Maps
+- Kalender
+- Alarm
+- Telpon
+- Film
+- Sianida
+- Fibonanci
+- Vidio
+- Link PDF
 __________________________
 ## 1. Halaman Utama
 ![img](https://github.com/MuhammadRyamizardReyopaS/UjianAkhirAndroid/blob/main/foto1.PNG)
